@@ -1,5 +1,10 @@
 # RxJavaListExample
 
+```
+implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+implementation 'io.reactivex.rxjava2:rxjava:2.2.9'
+```
+
 - With Delay
 ```java
 List<String> list = new ArrayList<>();
